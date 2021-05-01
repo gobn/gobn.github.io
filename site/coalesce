@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <meta
+      name="go-import"
+      content="gobn.github.io/coalesce git https://gitlab.com/iauc/coalesce.git"
+    />
+    <meta
+      http-equiv="refresh"
+      content="0;URL='https://gitlab.com/iauc/coalesce'"
+    />
+  </head>
+
+  <body>
+    Redirecting you to the
+    <a href="https://gitlab.com/iauc/coalesce">project page</a>...
+  </body>
+</html>
